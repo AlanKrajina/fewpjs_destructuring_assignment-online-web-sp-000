@@ -40,4 +40,4 @@ const [,,,,,indg,] = colors
 // Objects
 
 const { name, color, song, job, partner } = muppet;
-const { , song_2, , song_4 } = k_muppet.k_album.the_muppet_movie;
+const { song_2: song_2, song_4: song_4 } = k_muppet.k_album.the_muppet_movie;
