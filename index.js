@@ -33,9 +33,9 @@ const [black_and_white, , black, pink, ] = farmAnimals.split(' ')
 
 // Arrays
 
-const [red,orange,yellow,green,blue,indigo,violet] = colors
-const [red,orange,yellow,green,blue, ,violet] = colors
-const [,,,,,indigo,] = colors
+let [red,orange,yellow,green,blue,indigo,violet] = colors
+let [red,orange,yellow,green,blue, ,violet] = colors
+let [,,,,,indigo,] = colors
 
 
 
