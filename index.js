@@ -38,3 +38,5 @@ const [r,o,y,g,b, ,v] = colors
 const [,,,,,indg,] = colors
 
 // Objects
+
+const { first, breed } = k_muppet;
