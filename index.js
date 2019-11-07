@@ -39,4 +39,4 @@ const [,,,,,indg,] = colors
 
 // Objects
 
-const { first, breed } = k_muppet;
+const { name, color, song, job, partner } = muppet;
